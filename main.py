@@ -518,8 +518,8 @@ def window_setup():
     window.maxsize(303, 490)
     window.title("Calculator")
     window.configure(bg="#212120")
-    icon = PhotoImage(file="C:\\Users\\Thuan\\Documents\\Code\\Python\\Project\\Calculator Project\\Calculator\\image\\calculator.png")
-    window.iconphoto(True, icon)
+    # icon = PhotoImage(file="C:\\Users\\Thuan\\Documents\\Code\\Python\\Project\\Calculator Project\\Calculator\\image\\calculator.png")
+    # window.iconphoto(True, icon)
 
 
 def main():
